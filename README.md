@@ -55,16 +55,16 @@
 
 4. ### Create Technical Skills
 
-In the test case you need to validate the following field values:
-- Status code
+* In the test case you need to validate the following field values:
+    - Status code
 
 
 5. ### Create Student Address
-In the test case you need to validate the following field values:
+  * In the test case you need to validate the following field values:
 
-- Status code
-- Status
-- Message
+    - Status code
+    - Status
+    - Message
 
 
 6. ### Registration
