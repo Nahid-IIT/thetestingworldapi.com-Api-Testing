@@ -68,22 +68,22 @@
 
 
 6. ### Registration
-In the test  case you need to validate following field vaues:
-- Status code is okey
+* In the test  case you need to validate following field vaues:
+    - Status code is okey
 
-- Language validation
+    - Language validation
 
-- Year of experiance validation
+    - Year of experiance validation
 
-- House no validation
+    - House no validation
 
-- City validation
+    - City validation
 
-- Country validation
+    - Country validation
 
-- Mobile validation
+    - Mobile validation
 
-- Current Address
+    - Current Address
 
 
 ## Newman Summery Report
